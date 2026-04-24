@@ -60,8 +60,8 @@
 ```
 
 ---
+<div align="center">
 
-<
 
 
 [![GitHub](https://img.shields.io/badge/github-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyathomasm)
