@@ -9,8 +9,8 @@
 **CS student. Bot builder. Electron tinkerer.**  
 *insert generic i do stuff.*
 
-![](https://img.shields.io/badge/-%E2%9C%BF%20she%2Fher-ff69b4?style=for-the-badge)
-![](https://img.shields.io/badge/-SRM%20Institute-ff1493?style=for-the-badge)
+
+
 ![](https://img.shields.io/badge/-Computer%20Science-ff69b4?style=for-the-badge)
 
 </div>
