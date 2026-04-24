@@ -1,9 +1,9 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║  ✿ ✿ ✿   H E L L O ,   I ' M   R I Y A   ✿ ✿ ✿     ║
-╚═══════════════════════════════════════════════════════╝
+═══════════════════════════════════════════════════════
+  ✿ ✿ ✿   H E L L O ,   I ' M   R I Y A   ✿ ✿ ✿     
+═══════════════════════════════════════════════════════
 ```
 
 **CS student. Bot builder. Electron tinkerer.**  
@@ -22,13 +22,13 @@
 ```
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   🌸  Electron.js desktop apps                      │
-│   🌸  Fun little AI bots that do dumb smart things  │
-│   🌸  Whatever sounds interesting that week         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+─────────────────────────────────────────────────────
+                                                    
+   🌸  Electron.js desktop apps                      
+   🌸  Fun little AI bots that do dumb smart things  
+   🌸  Whatever sounds interesting that week         
+                                                     
+─────────────────────────────────────────────────────
 ```
 
 ---
@@ -50,18 +50,18 @@
 ```
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   ⌨  Writing code                                   │
-│   🌸  Breaking things to understand them            │
-│   🤖  Training bots with questionable logic         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+─────────────────────────────────────────────────────
+                                                    
+    ⌨  Writing code                                  
+    🌸  Breaking things to understand them            
+    🤖  Training bots with questionable logic         
+                                                    
+─────────────────────────────────────────────────────
 ```
 
 ---
 
-
+<
 
 
 [![GitHub](https://img.shields.io/badge/github-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyathomasm)
