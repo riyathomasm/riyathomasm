@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**riyathomasm/riyathomasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+╔═══════════════════════════════════════════════════════╗
+║  ✿ ✿ ✿   H E L L O ,   I ' M   R I Y A   ✿ ✿ ✿     ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-Here are some ideas to get you started:
+**CS student. Bot builder. Electron tinkerer.**  
+*Making the internet weirder, one project at a time.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/-%E2%9C%BF%20she%2Fher-ff69b4?style=for-the-badge)
+![](https://img.shields.io/badge/-SRM%20Institute-ff1493?style=for-the-badge)
+![](https://img.shields.io/badge/-Computer%20Science-ff69b4?style=for-the-badge)
+
+</div>
+
+---
+
+```
+✿ WHAT I BUILD ✿
+```
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   🌸  Electron.js desktop apps                      │
+│   🌸  Fun little AI bots that do dumb smart things  │
+│   🌸  Whatever sounds interesting that week         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+```
+✿ STACK ✿
+```
+
+![Java](https://img.shields.io/badge/Java-FF1493?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-FF1493?style=for-the-badge&logo=electron&logoColor=white)
+
+---
+
+```
+✿ CURRENTLY ✿
+```
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   ⌨  Writing code                                   │
+│   🌸  Breaking things to understand them            │
+│   🤖  Training bots with questionable logic         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+
+
+
+[![GitHub](https://img.shields.io/badge/github-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyathomasm)
+
+
+
+</div>
