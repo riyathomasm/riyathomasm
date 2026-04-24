@@ -9,11 +9,7 @@
 **CS student. Bot builder. Electron tinkerer.**  
 *insert generic i do stuff.*
 
-
-
 ![](https://img.shields.io/badge/-Computer%20Science-ff69b4?style=for-the-badge)
-
-</div>
 
 ---
 
@@ -60,12 +56,7 @@
 ```
 
 ---
-<div align="center">
-
-
 
 [![GitHub](https://img.shields.io/badge/github-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyathomasm)
-
-
 
 </div>
