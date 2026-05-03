@@ -58,9 +58,9 @@
 ```
 ─────────────────────────────────────────────────────
                                                     
-    ⌨  Writing code                                  
+    ◉  Writing code                                  
     ◉  Breaking things to understand them            
-    🤖  Training bots with questionable logic         
+    ◉  Training bots with questionable logic         
                                                     
 ─────────────────────────────────────────────────────
 ```
